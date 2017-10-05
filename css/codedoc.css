@@ -1,0 +1,275 @@
+.headr{
+	background-color:#339966;
+	min-height:72px;
+
+ }
+ 
+ .DPC,.uploadCountNote{
+	color:#339966;
+ }
+ 
+ .footr{
+	background-color:#339966;
+	min-height:50px;
+ }
+ 
+ .menu{
+	min-height:50px;
+ }
+ 
+.profilelead,.update,.menulist a{
+	color:#339966;
+ }
+ 
+ .acpnyndata {
+	color:#339966;
+	font-size:85%;
+ }
+ .acpnynparam{
+	font-size:85%;
+	font-weight:600;
+ }
+ 
+ .copyright,.footr a{
+	color:#ffffff;
+ }
+ 
+ .menuLinks,.footrLinks{
+	margin-left:1em;
+	margin-top:1em;
+ }
+ 
+ .redflag{
+	color:#339966;
+	background-color:#ffcc99;
+	border-style:none;
+	border-color:#ff9933;
+ }
+ 
+ .closureflag{
+	color:#339966;
+	background-color:#ffcc99;
+	border-style:none;
+	border-color:#ff9933;
+	margin-top:-1em;
+ }
+ 
+ .greenflag{
+	color:#ffffff;
+	background-color:#66cc99;
+	border-style:none;
+	border-color:#48d1cc;
+ }
+ .errFlagMgr{
+	margin-left:2em;
+ }
+ 
+ .successFlag{
+	margin-left:2em;
+ }
+ 
+.nostream{
+	padding-top:-1em;
+	text-align:center;
+}
+ 
+ .streamunit{
+	background-color:#e0ffff;/*#f0fff0;#f5fffa;*/
+	margin-top:-0.9em;
+ }
+ 
+ .streamunitBit{
+	color:#000000;
+	padding-top:1em;
+	padding-left:1em;
+	padding-right:1em;
+ }
+ 
+ .subtitle{
+	background-color:#f5f5f5;
+ }
+ 
+ .subtitleBit{
+	padding-top:0.3em;
+	padding-left:1em;
+ }
+ .docpagesidebar{
+	margin-top:-9px;
+ }
+ .doctracktext{
+	 text-align:center;
+ }
+ 
+ .docHeadr{
+	text-align:center;
+	
+ }
+ 
+ .regTitle{
+	text-align:center;
+	margin-top:-0.1em;
+ }
+ 
+ .docDetails{
+	padding-left:1em;
+	margin-bottom:1.4em;
+ }
+ .itemdisp{
+	background-color:#b0e0e6;
+	margin-top:-1em;
+	padding-top:1em;
+ }
+ .docStatusArea{
+	padding-left:1em;
+ }
+ .minuteSecPointer{
+	color:#339966;
+ }
+ 
+ .pointerWrapper{
+	text-align:center;
+	margin-top:-28px;
+ }
+ 
+ .scontent{
+	text-align:center;
+	margin-top:0em;
+	margin-bottom:2.39em;
+	font-size:1.2em;
+ }
+ 
+ .sbox{
+	height:5em;
+	width:40em;
+	margin-top:3em;
+	margin-bottom:6em;
+ }
+.sboxi{
+	margin-left:5em;
+}
+.stxtbox{
+    padding-top:0.7em;
+ }
+
+.slist{
+	text-align:left;
+ }
+.sbody{
+	min-height:71%;
+}
+.profilebody{
+	margin-top:1em;
+	margin-left:1em;
+}
+.proTitle{
+	margin-left:0.5em;
+}
+.dbody{
+	margin-top:1em;
+	margin-left:0.2em;
+	margin-right:2em;
+}
+.dconbody{
+	margin-top:1em;
+	margin-left:0.2em;
+	
+}
+.orgheadr{
+	margin-left:1em;
+	/**margin-right:-2em;**/
+}
+.bizregbody{
+	margin-top:0.1em;
+	margin-left:1em;
+}
+.downloadhdr,.bizheadr, .bizdescriptn{
+	text-align:center;
+}
+.noemplist{
+	text-align:center;
+	margin-top:3em;
+}
+.bizdescriptn{
+	text-align:center;
+	font-size:16px;
+}
+.nolist{
+	text-align:center;
+	padding-top:1.6%;
+	padding-bottom:1.6%;
+}
+
+.uploadr{
+	margin-top:-4em;
+}
+ 
+ #headr-login{
+	margin-top:1.4em;
+	margin-left:8em;
+ }
+ 
+ #headr-login2{
+	margin-top:1.4em;
+ }
+ 
+ #headr-logout{
+	margin-top:1.4em;
+	margin-left:38em;
+ }
+ 
+ #explainr{
+	margin-top:3em;
+	margin-left:1em;
+ }
+ 
+ #upload-form{
+	background-color:#ffffff;
+	margin-top:3em;
+	margin-left:2em;
+ }
+ 
+ #signup-form{
+	background-color:#ffffff;
+	margin-top:3em;
+	margin-left:2em;
+}
+ 
+#signin-form{
+	background-color:#ffffff;
+	margin-top:9em;
+	margin-bottom:9em;
+	margin-right:3em;
+	border-left-style:dotted;
+ }
+ 
+ #signin-form1{
+	background-color:#ffffff;
+	margin-top:9em;
+	margin-bottom:9em;
+	margin-right:3em;
+ }
+ #docCentr{
+	margin-top:3em;
+	margin-left:2em;
+ }
+ 
+ #uzrpages,#regbiz,#docCentrB,#docCentrA {
+	margin-top:-0.7em;
+	margin-left:1em;
+ }
+ 
+ #frontpgcontent{
+	margin-left:4em;
+	margin-right:4em;
+	/**min-height:510px**/
+ }
+ #loadBtn{
+	margin-top:-0.7em;
+ }
+ #upsubmitbtn{
+	margin-left:-2.5em;
+ }
+#nomsg{
+	margin-top:1em;
+	margin-bottom:1em;
+}
