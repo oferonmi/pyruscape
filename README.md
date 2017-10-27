@@ -1,4 +1,4 @@
-# pyrus-shuttle
+# Pyrus Shuttle
 
 Pyrus Shuttle is an electronic document dispatch management web application. It aims to simplify and facilitate official documentation management.
 
@@ -6,6 +6,7 @@ The movement of official documents between departments of an organisation is typ
 
 Pyrus Shuttle is a project aimed at digitizing and automating these functions. Let's bid the office file cabinet, goodbye.
 
+# Features
 Implemented or potentials features include          
 (1.) Classification of documents into 'incoming' and 'outgoing',  
 (2.) Tracking the movement of 'outgoing' documents,  
