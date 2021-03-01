@@ -1,0 +1,7 @@
+CREATE TABLE reg_biz_details(
+biz_ID INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+biz_name VARCHAR(225) NOT NULL UNIQUE,
+biz_descriptn BLOB NOT NULL,
+biz_admin_email VARCHAR(225) NOT NULL,
+biz_logo_path VARCHAR(225) NOT NULL
+)ENGINE = InnoDB;
